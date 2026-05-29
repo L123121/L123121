@@ -1,3 +1,5 @@
+<div align="center">
+
 <img src="./上杉绘梨衣.jpg" width="100%" />
 
 # ⚔️ 卡塞尔学院 · 执行者档案 ⚔️
@@ -13,38 +15,30 @@
 
 ## 🩸 混血种档案
 
-| 属性           | 信息                |
-| -------------- | ------------------- |
-| **执行者编号** | L123121             |
-| **真名**       | Zihang Chu          |
-| **所属**       | 卡塞尔学院 · 执行部 |
-| **职阶**       | S级执行者           |
-| **血统**       | 混血种（Hybrid）    |
-| **言灵**       | Code Spirit         |
+| 属性 | 信息 |
+|------|------|
+| **执行者编号** | L123121 |
+| **真名** | Zihang Chu |
+| **所属** | 卡塞尔学院 · 执行部 |
+| **职阶** | S级执行者 |
+| **血统** | 混血种（Hybrid） |
+| **言灵** | Code Spirit |
 
 ---
 
 ## ⚔️ 技能树
 
+<div align="center">
+
 ### 前端魔法
 
-| 技能       | 等级                     |
-| ---------- | ------------------------ |
-| JavaScript | ████████████████████ 95% |
-| TypeScript | █████████████████░░░ 85% |
-| Vue.js     | ████████████████████ 95% |
-| React      | █████████████░░░░░░░ 65% |
-| HTML/CSS   | ████████████████████ 98% |
-| Node.js    | ███████████████░░░░░ 75% |
+<img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,html,css,sass,tailwind,scss&theme=dark" />
 
-### 辅助技能
+### 工具与其他
 
-| 技能         | 等级                     |
-| ------------ | ------------------------ |
-| Git          | █████████████████░░░ 90% |
-| Webpack/Vite | ██████████████░░░░░░ 70% |
-| MongoDB      | █████████████░░░░░░░ 65% |
-| Docker       | █████████░░░░░░░░░░░ 45% |
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,npm,pnpm,webpack,vite,mongodb,docker,linux&theme=dark" />
+
+</div>
 
 ---
 
@@ -52,10 +46,9 @@
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=L123121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L123121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L123121&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L123121&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -64,7 +57,6 @@
 ## 🏆 Trophies
 
 <div align="center">
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=L123121&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -75,7 +67,6 @@
 ## 📈 Activity Graph
 
 <div align="center">
-
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=L123121&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -102,8 +93,7 @@
 
 <div align="center">
 
-
-**"在代码的世界里，我就是王。"**
+**代码如剑，键盘为盾。**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=L123121&color=red&style=flat-square)
 
