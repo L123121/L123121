@@ -46,9 +46,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=L123121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats-beta-one.vercel.app/api?username=L123121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L123121&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-beta-one.vercel.app/api/top-langs/?username=L123121&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=L123121&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy-beta.vercel.app/?username=L123121&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 
 </div>
 
