@@ -2,30 +2,12 @@
 
 <img src="./上杉绘梨衣.jpg" width="100%" />
 
-# ⚔️ 卡塞尔学院 · 执行者档案 ⚔️
-
 ## L123121 · Zihang Chu
 
 [![GitHub followers](https://img.shields.io/github/followers/L123121?style=social)](https://github.com/L123121)
 [![GitHub stars](https://img.shields.io/github/stars/L123121?style=social)](https://github.com/L123121)
 
 </div>
-
----
-
-## 🩸 混血种档案
-
-| 属性 | 信息 |
-|------|------|
-| **执行者编号** | L123121 |
-| **真名** | Zihang Chu |
-| **所属** | 卡塞尔学院 · 执行部 |
-| **职阶** | S级执行者 |
-| **血统** | 混血种（Hybrid） |
-| **言灵** | Code Spirit |
-
----
-
 ## ⚔️ 技能树
 
 <div align="center">
@@ -72,17 +54,6 @@
 
 </div>
 
----
-
-## 📜 任务清单
-
-- [ ] 学习 Rust
-- [ ] 贡献开源项目
-- [ ] 写技术博客
-- [ ] 获得 100 Stars
-
----
-
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
@@ -92,8 +63,6 @@
 ---
 
 <div align="center">
-
-**代码如剑，键盘为盾。**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=L123121&color=red&style=flat-square)
 
