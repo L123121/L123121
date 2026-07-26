@@ -4,6 +4,7 @@
 
 ## L123121 · Zihang Chu
 
+
 [![GitHub followers](https://img.shields.io/github/followers/L123121?style=social)](https://github.com/L123121)
 [![GitHub stars](https://img.shields.io/github/stars/L123121?style=social)](https://github.com/L123121)
 
@@ -53,9 +54,6 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=L123121&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-
----
 
 <div align="center">
 
