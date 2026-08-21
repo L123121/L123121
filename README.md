@@ -1,62 +1,112 @@
 <div align="center">
 
-<img src="./上杉绘梨衣.jpg" width="100%" />
+  <img src="./上杉绘梨衣.jpg" width="100%" alt="L123121 banner" />
 
-## L123121 · Zihang Chu
+  <br />
 
+  # L123121 · Zihang Chu
 
-[![GitHub followers](https://img.shields.io/github/followers/L123121?style=social)](https://github.com/L123121)
-[![GitHub stars](https://img.shields.io/github/stars/L123121?style=social)](https://github.com/L123121)
+  ### Frontend Developer · Creative Coder
 
-</div>
-## ⚔️ 技能
+  <p>
+    把复杂的想法，做成简单好用的界面。
+  </p>
 
-<div align="center">
+  <p>
+    <a href="https://github.com/L123121">
+      <img src="https://img.shields.io/github/followers/L123121?style=flat-square&logo=github&label=Followers&color=181717" />
+    </a>
+    <a href="https://github.com/L123121?tab=repositories">
+      <img src="https://img.shields.io/github/stars/L123121?style=flat-square&logo=github&label=Stars&color=181717" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=L123121&style=flat-square&color=6C63FF&label=Profile+Views" />
+  </p>
 
-### 前端
+  </div>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,html,css,sass,tailwind,scss&theme=dark" />
+  ---
 
-### 工具与其他
+  ## About Me
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,npm,pnpm,webpack,vite,mongodb,docker,linux&theme=dark" />
+  - 🧱 Building frontend experiences with **Vue** and **React**
+  - 🎨 Interested in visual design, interaction, and user experience
+  - ⚙️ Exploring modern frontend tooling and engineering workflows
+  - 🚀 Learning by building, shipping, and continuously improving
 
-</div>
+  ---
 
----
+  ## Tech Stack
 
-## 📊 GitHub Stats
+  ### Core
 
-<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,html,css,sass,tailwind&theme=dark" />
+  </p>
 
-<img width="49%" src="https://github-readme-stats-beta-one.vercel.app/api?username=L123121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  ### Toolchain & Infrastructure
 
-<img width="49%" src="https://github-readme-stats-beta-one.vercel.app/api/top-langs/?username=L123121&layout=compact&theme=tokyonight&hide_border=true" />
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,pnpm,vite,webpack,docker,linux&theme=dark" />
+  </p>
 
-</div>
+  ### Data
 
----
+  <p>
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+  </p>
 
-## 🏆 Trophies
+  ---
 
-<div align="center">
+  ## GitHub Overview
 
-<img src="https://github-profile-trophy-beta.vercel.app/?username=L123121&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+  <div align="center">
 
-</div>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?
+  username=L123121&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  />
 
----
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=L123121&layout=compact&theme=tokyonight&hide_border=true"
+  />
 
-## 📈 Activity Graph
+  </div>
 
-<div align="center">
+  ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=L123121&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ## Achievements
 
-</div>
+  <div align="center">
 
-<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=L123121&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
+    alt="GitHub Trophies"
+  />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=L123121&color=red&style=flat-square)
+  </div>
 
-</div>
+  ---
+
+  ## Contribution Activity
+
+  <div align="center">
+
+  <img
+    width="96%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=L123121&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+
+  </div>
+
+  ---
+
+  <div align="center">
+
+  ### Thanks for visiting ✨
+
+  <sub>Keep building. Keep learning. Keep shipping.</sub>
+
+  </div>
