@@ -43,10 +43,7 @@
 
   <div align="center">
 
-  <img
-    src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,html,css,sass,tailwind&theme=dark"
-    alt="Core Technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,html,css,sass,tailwind&theme=dark" alt="Core Technologies" />
 
   </div>
 
@@ -54,10 +51,7 @@
 
   <div align="center">
 
-  <img
-    src="https://skillicons.dev/icons?i=git,github,nodejs,npm,pnpm,vite,webpack,docker,linux&theme=dark"
-    alt="Toolchain and Infrastructure"
-  />
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,pnpm,vite,webpack,docker,linux&theme=dark" alt="Toolchain and Infrastructure" />
 
   </div>
 
@@ -65,32 +59,24 @@
 
   <div align="center">
 
-  <img
-    src="https://skillicons.dev/icons?i=mongodb&theme=dark"
-    alt="Database Technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="Database Technologies" />
 
   </div>
 
+
+
   ---
-
-
-
 
   ## Contribution Activity
 
   <div align="center">
 
+  <img
     width="96%"
-    alt="GitHub Contribution Activity"
   />
 
-  ---
-
-  <div align="center">
+  </div>
 
   ### Thanks for visiting ✨
-
-  <sub>Keep building. Keep learning. Keep shipping.</sub>
 
   </div>
