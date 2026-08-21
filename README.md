@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
   <img src="./上杉绘梨衣.jpg" width="100%" alt="L123121 banner" />
 
@@ -43,7 +43,10 @@
 
   <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,html,css,sass,tailwind&theme=dark" alt="Core Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,html,css,sass,tailwind&theme=dark"
+    alt="Core Technologies"
+  />
 
   </div>
 
@@ -51,7 +54,10 @@
 
   <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,pnpm,vite,webpack,docker,linux&theme=dark" alt="Toolchain and Infrastructure" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,nodejs,npm,pnpm,vite,webpack,docker,linux&theme=dark"
+    alt="Toolchain and Infrastructure"
+  />
 
   </div>
 
@@ -59,30 +65,32 @@
 
   <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="Database Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=mongodb&theme=dark"
+    alt="Database Technologies"
+  />
 
   </div>
 
   ---
 
-  ## GitHub Overview
+
+
+
+  ## Contribution Activity
 
   <div align="center">
 
-  <img
-    width="49%"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?
-  username=L123121&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
-    alt="L123121 GitHub Stats"
+    width="96%"
+    alt="GitHub Contribution Activity"
   />
 
-  <img
-    width="49%"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?
-  username=L123121&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
+  ---
+
+  <div align="center">
+
+  ### Thanks for visiting ✨
+
+  <sub>Keep building. Keep learning. Keep shipping.</sub>
 
   </div>
