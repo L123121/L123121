@@ -67,19 +67,4 @@
 
   ---
 
-  ## Contribution Activity
-<div align="center">
-
-  <img
-    width="96%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=L123121&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Activity"
-  />
-
-  </div>
-
-  </div>
-
   ### Thanks for visiting ✨
-
-  </div>
