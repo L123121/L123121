@@ -39,11 +39,8 @@
 
   ## 💼 Internship Experience
 
-  <div align="center">
-
-  <table><tr><td><img src="./tencent-logo.png" width="180" alt="Tencent 腾讯" /></td><td valign="middle">&nbsp;&nbsp;<b>前端开发实习生</b>&nbsp;&nbsp;</td></tr></table>
-
-  </div>
+  <img src="./tencent-logo.png" width="180" align="middle" alt="Tencent 腾讯" />
+  &nbsp;&nbsp;<b>前端开发实习生</b>&nbsp;·&nbsp;2025.XX — 2025.XX
 
   ---
 
