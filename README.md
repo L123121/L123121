@@ -41,9 +41,9 @@
 
   <div align="center">
 
-    <img src="./tencent-logo.png" width="180" align="middle" alt="Tencent 腾讯" />
-    &nbsp;&nbsp;
-    <b>Tencent · 前端开发实习生</b>
+  <img src="./tencent-logo.png" width="180" align="middle" alt="Tencent 腾讯" />
+  &nbsp;&nbsp;
+  <b>Tencent · 前端开发实习生</b>
 
   </div>
 
