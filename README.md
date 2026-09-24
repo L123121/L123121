@@ -41,7 +41,7 @@
 
   <div align="center">
 
-  <table><tr><td><img src="./tencent-logo.png" width="220" alt="Tencent 腾讯" /></td><td valign="middle">&nbsp;&nbsp;<b>Tencent · 前端开发实习生</b>&nbsp;&nbsp;</td></tr></table>
+  <table><tr><td><img src="./tencent-logo.png" width="180" alt="Tencent 腾讯" /></td><td valign="middle">&nbsp;&nbsp;<b>前端开发实习生</b>&nbsp;&nbsp;</td></tr></table>
 
   </div>
 
