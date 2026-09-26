@@ -49,7 +49,7 @@
 
   <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,html,css,sass,tailwind&theme=dark" alt="Core Technologies" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,html,css,tailwind&theme=dark" alt="Core Technologies" />
 
   </div>
 
@@ -57,7 +57,7 @@
 
   <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,pnpm,vite,webpack,docker,linux&theme=dark" alt="Toolchain and Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,pnpm,vite,docker,linux&theme=dark" alt="Toolchain and Infrastructure" />
 
   </div>
 
@@ -65,7 +65,7 @@
 
   <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="Database Technologies" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" alt="Database Technologies" />
 
   </div>
 
